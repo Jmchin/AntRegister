@@ -1,0 +1,7 @@
+StudentID,Password,NameFirst,NameLast
+jchi,admin1,Justin,Chin
+tjen,admin2,Travis,Jennings
+nnar,admin3,Nehal,Narsaraopally
+jtan,admin4,Jia,Tan
+ituf,admin5,Imran,Tufail
+jwil,admin6,James,Wilson
